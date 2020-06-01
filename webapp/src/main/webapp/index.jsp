@@ -1,2 +1,2 @@
 Hello, Welcome to Bangalore.
-practice at home during wfh
+practice at home during lockdown

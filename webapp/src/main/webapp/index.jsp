@@ -1,2 +1,2 @@
-Hello, Welcome to 9am batch from Bangalore.
+Hello, Welcome to Bangalore.
 practice at home during wfh

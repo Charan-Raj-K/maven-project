@@ -35,11 +35,11 @@
       <name>mvnProject-release</name>
       <url>http://localhost:9081/repository/maven-releases/</url>
      </repository>    
-     <snapshot>
+     <snapshotrepository>
       <id>mvn-nexus</id>
       <name>mvnProject-snapshot</name>
       <url>http://localhost:9081/repository/maven-snapshots/</url>        
-     </snapshot>         
+     </snapshotrepository>         
   </distributionManagement>
 
   <build>

@@ -30,16 +30,19 @@
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
     </site>
-    <repository>
+    
+     <repository>
       <id>mvn-nexus</id>
       <name>mvnProject-release</name>
       <url>http://localhost:9081/repository/maven-releases/</url>
      </repository>    
+     
      <snapshotrepository>
       <id>mvn-nexus</id>
       <name>mvnProject-snapshot</name>
       <url>http://localhost:9081/repository/maven-snapshots/</url>        
      </snapshotrepository>         
+  
   </distributionManagement>
 
   <build>
